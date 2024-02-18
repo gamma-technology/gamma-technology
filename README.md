@@ -1,3 +1,4 @@
+![Image Description](https://gammatechno-public.s3.ap-southeast-1.amazonaws.com/gamma-tech-logo-2.png)
 - 👋 Hi, I’m @gamma-technology Hongkong based tech startup.
 - 👀 I’m interested in innovation, solving problems & scaling solutions.
 - 📫 How to reach me ? Send us email to gamma.technology2022@gmail.com
